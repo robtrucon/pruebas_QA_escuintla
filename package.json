@@ -1,0 +1,23 @@
+{
+  "name": "pruebas_qa_escuintla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtrucon/pruebas_QA_escuintla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robtrucon/pruebas_QA_escuintla/issues"
+  },
+  "homepage": "https://github.com/robtrucon/pruebas_QA_escuintla#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
